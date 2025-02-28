@@ -86,6 +86,7 @@ app.listen(8081, console.log("Server running on PORT 8081"));
 > PARAMS <longurl, verylongurl> => <longurl, https://en.wikipedia.org/wiki/Shard_(database_architecture)1> 
 
 Shard-1
+id  long_url                                                        short_url
 1	"https://en.wikipedia.org/wiki/Shard_(database_architecture)1"	"Na1+r"
 2	"https://en.wikipedia.org/wiki/Shard_(database_architecture)3"	"MgN7U"
 3	"https://en.wikipedia.org/wiki/Shard_(database_architecture)5"	"hUkgZ"
